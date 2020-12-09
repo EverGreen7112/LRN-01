@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3676e79-cea5-4b9f-8a79-a242c9f0a894" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l6rKBGixIHb9VFaq0CZmgWfrmt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lia" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="LRN-01" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3676e79-cea5-4b9f-8a79-a242c9f0a894" name="Default Changelist" comment="" />
+      <created>1606928324484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606928324484</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="298" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607030545178">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="298" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607030545178" />
+    <state x="573" y="182" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607030540945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="182" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1607030540945" />
+    <state x="623" y="147" key="FileChooserDialogImpl" timestamp="1607533362019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="623" y="147" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607533362019" />
+    <state width="1342" height="242" key="GridCell.Tab.0.bottom" timestamp="1607533363680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607533363680" />
+    <state width="1342" height="242" key="GridCell.Tab.0.center" timestamp="1607533363680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607533363680" />
+    <state width="1342" height="242" key="GridCell.Tab.0.left" timestamp="1607533363680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607533363680" />
+    <state width="1342" height="242" key="GridCell.Tab.0.right" timestamp="1607533363680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607533363680" />
+    <state width="1342" height="242" key="GridCell.Tab.1.bottom" timestamp="1607533363680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607533363680" />
+    <state width="1342" height="242" key="GridCell.Tab.1.center" timestamp="1607533363680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607533363680" />
+    <state width="1342" height="242" key="GridCell.Tab.1.left" timestamp="1607533363680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607533363680" />
+    <state width="1342" height="242" key="GridCell.Tab.1.right" timestamp="1607533363680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607533363680" />
+    <state x="324" y="0" key="SettingsEditor" timestamp="1607030277124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="324" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607030277124" />
+    <state x="573" y="197" key="extract.method.dialog" timestamp="1607089434320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="197" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1607089434320" />
+    <state x="498" y="179" key="run.anything.popup" timestamp="1607033914143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="179" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1607033914143" />
+    <state x="505" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607533290646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="505" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607533290646" />
+  </component>
+</project>
